@@ -1,0 +1,26 @@
+
+
+.confirmed-event {
+  background-color: green; /* Example color */
+  color: white;
+}
+
+.confirmed-event:hover {
+  background-color: rgb(99, 137, 99); 
+  color: rgb(30, 28, 28);
+}
+
+.pending-event {
+  background-color: rgb(204, 204, 69);
+  color: black;
+}
+
+.cancelled-event {
+  background-color: red;
+  color: white;
+}
+
+.cancelled-event:hover {
+  background-color: rgb(128, 95, 95);
+  color: black;
+}
