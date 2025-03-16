@@ -174,7 +174,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Fahad Zafar**  
-  Email: fahadzafarmayo123@gmail.com 
-  GitHub: [Fahadboi66](https://github.com/your-username)
+- **Muhammad Haris**  
+  Email: haris54955@gmail.com 
+  GitHub: [M-Haris-27](https://github.com/your-username)
 
